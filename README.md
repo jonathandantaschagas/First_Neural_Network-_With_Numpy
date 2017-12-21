@@ -6,15 +6,16 @@ O objetivo da previsão é poder disponibilizar a quantidade de bicicletas sufic
 
 # Executar no windows (Linux/Mac + git + conda)
 Para executar o código no seu próprio Jupyter Notebook (Anaconda) basta seguir os passo abaixo
-    Abra o CMD
-    git clone https://github.com/jonathandantaschagas/First_Neural_Network-_With_Numpy.git
-    cd DLND-first-neural-network
-    # Crie um ambiente conda, ou utilize algum que vocÊ ja tenha
-    conda create --name NOME_DO_AMBIENTE python=3
-    activate NOME_DO_AMBIENTE
-    conda install numpy matplotlib pandas jupyter notebook
-    jupyter notebook First_neural_network.ipynb
+    <ul>Abra o CMD
+    <li>git clone https://github.com/jonathandantaschagas/First_Neural_Network-_With_Numpy.git</li>
+    <li>cd Neural Network From Scratch - Numpy</li>
+    <li>Crie um ambiente conda, ou utilize algum que vocÊ ja tenha</li>
+    <li>conda create --name NOME_DO_AMBIENTE python=3</li>
+    <li>activate NOME_DO_AMBIENTE</li>
+    <li>conda install numpy matplotlib pandas jupyter notebook</li>
+    <li>jupyter notebook Neural Network From Scratch - Numpy.ipynb</li>
+    </ul>
 
 
-O Notebook també esta renderizado no github, então você pode abrir o arquivo e você verá meus resultados,
+O Notebook também está renderizado no github, então você pode abrir o arquivo Neural Network From Scratch - Numpy.ipynbe você verá meus resultados,
 
